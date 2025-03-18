@@ -29,9 +29,10 @@ Before using the Phishing URL Scanner, ensure you have the following installed o
   cd PhishingURLScanner
 
    bash
+   
   pip install -r requirements.txt
 
-  To Run The Code
+  To Run The Code -- 
   python phishing_url_scanner.py
 
   Then You have to Enter the Url in Terminal because its a user input .
